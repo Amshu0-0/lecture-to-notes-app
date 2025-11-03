@@ -4,3 +4,6 @@ node_modules/
 claude-code.log
 *.log
 .DS_Store
+
+# Uploaded audio files
+server/uploads/
