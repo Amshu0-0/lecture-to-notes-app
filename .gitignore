@@ -1,0 +1,6 @@
+node_modules/
+.env
+.claude/
+claude-code.log
+*.log
+.DS_Store
